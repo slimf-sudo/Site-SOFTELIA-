@@ -7,3 +7,6 @@ Thumbs.db
 
 # Config locale Claude Code
 .claude/
+
+# Instructions Claude Code (locales)
+CLAUDE.md
