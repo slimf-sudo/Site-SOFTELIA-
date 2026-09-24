@@ -1,0 +1,9 @@
+# Ressources de travail (brief, CV, charte) — ne pas publier
+Ressources/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Config locale Claude Code
+.claude/
